@@ -25,4 +25,11 @@
       <testCaseId>Test Cases/Step Definition/Login/LG002 - User want to login without username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>81dfb8d0-2501-46a9-9917-e3ee92616461</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Step Definition/Login/LG003 - User want to login without password</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
